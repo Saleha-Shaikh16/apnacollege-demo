@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is first repository
 <br>
-author-Saleha Shaikh
+author-Saleha Shaikh (beginner)
